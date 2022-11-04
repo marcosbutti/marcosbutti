@@ -3,8 +3,8 @@
 💼 Acá se pueden encontrar con proyectos donde practico y mejoro mis habilidades. 
 #### _Un poco sobre mi_
 * 🥊 Hago Deporte 
-* Me interesa 
-* Tecnología y
+* Me gusta ver películas,🎬 series, ver a Boquita 💙💛💙 y algo de basquet.🏀 
+* Me interesa lz Tecnología 💻 y
 * 🐧 Prefiero el software libre
 
 
