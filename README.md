@@ -2,7 +2,7 @@
 🌱 Estoy aprendiendo sobre análisis de datos para seguir mi camino en la ciencia de datos. <br>
 💼 Acá se pueden encontrar con proyectos donde practico y mejoro mis habilidades. 
 #### _Un poco sobre mi_
-* 🥊 Hago Deporte 
+* 🥊 Hago deporte 
 * 💻 Me interesa la tecnología, IA , criptos 
 * 🐧 Prefiero el software libre
 * 🎬 ⚽ 🏀  Mis hobbies: ver películas, series y deportes. 
