@@ -3,9 +3,9 @@
 💼 Acá se pueden encontrar con proyectos donde practico y mejoro mis habilidades. 
 #### _Un poco sobre mi_
 * 🥊 Hago Deporte 
-* Me gusta ver películas,🎬 series, ver a Boquita 💙💛💙 y algo de basquet.🏀 
-* Me interesa lz Tecnología 💻 y
+* 💻 Me interesa la tecnología, IA , criptos 
 * 🐧 Prefiero el software libre
+* 🎬 ⚽ 🏀  Mis hobbies: ver películas, series y deportes. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/marcosbutti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/marcos.b/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/marcosbutti)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tableau.svg' alt='tableau' height='40'>](https://public.tableau.com/app/profile/marcosb) 
